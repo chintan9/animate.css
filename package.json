@@ -30,7 +30,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.8",
     "husky": "^1.2.0",
-    "lint-staged": "^9.5.0",
+    "lint-staged": "^10.0.1",
     "prettier": "^1.10.2",
     "run-sequence": "^2.2.1"
   },
